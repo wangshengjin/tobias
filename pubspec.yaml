@@ -22,7 +22,7 @@ dev_dependencies:
 plugin:
   platforms:
     android:
-      androidPackage: com.jarvan.tobias
+      package: com.jarvan.tobias
       pluginClass: TobiasPlugin
 
   # To add assets to your plugin package, add an assets section, like this:

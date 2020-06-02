@@ -19,11 +19,12 @@ dev_dependencies:
 # following page: https://www.dartlang.org/tools/pub/pubspec
 
 # The following section is specific to Flutter.
-plugin:
-  platforms:
-    android:
-      package: com.jarvan.tobias
-      pluginClass: TobiasPlugin
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: com.jarvan.tobias
+        pluginClass: TobiasPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:

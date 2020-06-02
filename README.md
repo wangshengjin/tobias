@@ -4,6 +4,7 @@
 [中文移步这里](./README_CN.md)
 
 QQ Group：892398530。
+## 将项目转为android专用插件，ios端没有支付宝相关功能，避免审核时候被拒
 
 ## What's Tobias
 
